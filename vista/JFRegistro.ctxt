@@ -1,0 +1,10 @@
+#BlueJ class context
+#Tue Nov 24 12:14:46 COT 2026
+comment0.target=JFRegistro
+comment1.target=JFRegistro()
+comment2.target=void estructura()
+comment3.target=void deshabilitarTodoEspecifico()
+comment4.params=tipo
+comment4.target=void habilitarSegunTipo(java.lang.String)
+comment5.target=void limpiarCampos()
+numComments=6

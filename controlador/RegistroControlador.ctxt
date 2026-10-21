@@ -1,0 +1,23 @@
+#BlueJ class context
+#Tue Nov 24 12:18:57 COT 2026
+comment0.target=RegistroControlador
+comment1.params=vista
+comment1.target=RegistroControlador(vista.JFRegistro)
+comment10.target=void buscar()
+comment11.params=p
+comment11.target=void cargarDatosEnFormulario(modelo.Persona)
+comment12.target=void limpiar()
+comment2.target=void asignarEventos()
+comment3.params=e
+comment3.target=void actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void actionPerformed(java.awt.event.ActionEvent)
+comment6.params=e
+comment6.target=void actionPerformed(java.awt.event.ActionEvent)
+comment7.target=boolean validarCamposBasicos()
+comment8.params=tipo
+comment8.target=boolean validarDistribucion(java.lang.String)
+comment9.target=void guardar()
+numComments=13
